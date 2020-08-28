@@ -1,0 +1,1 @@
+delay_tuturial_bug - на двух других платформах, apple iphone и Mail.ru Веб-версия на ПК (google Chrome)
